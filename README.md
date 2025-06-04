@@ -28,7 +28,10 @@ Features:
 5. Python Script (`Group_8_Databases_BigData.py`)
 
 Install the libraries using the following command on your Terminal:
-<pip install mysql-connector-python pandas getpass ipython rich>
+
+```bash
+pip install mysql-connector-python pandas getpass ipython rich
+```
 
 ## SETUP INSTRUCTIONS
 
